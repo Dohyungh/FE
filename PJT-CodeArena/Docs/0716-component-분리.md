@@ -1,6 +1,6 @@
 # Component 분리에 대한 고민
 
-![img](./assets/0716signup.png)
+![img](./assets/0716signup.PNG)
 ![img](./assets/0716signup2.png)
 
 Form 태그의 각 항목을 component로 분리하려 했는데,
